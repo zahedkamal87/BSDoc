@@ -1,1 +1,1 @@
-# BSDocs - Bootstrap Documentation Template
+# BSDoc - Bootstrap Documentation Template
